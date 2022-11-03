@@ -1,4 +1,6 @@
 Building the back end for users registration to enter their data by the json request sent.
+Email sent after successful registration to verify his email address and activate their account. 
+
 
 When registering it validates if the email is registered before. 
 If the email is new It will send a confirming token to his email (expires after 15 Min).
